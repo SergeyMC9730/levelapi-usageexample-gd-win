@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 project(example-mod)
 
-add_library(example-mod SHARED src/main.cpp)
+add_library(example-mod SHARED src/main.cpp "src/compile.h")
 
 include(cmake/CPM.cmake)
 
