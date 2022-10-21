@@ -2,9 +2,9 @@
 
 geometry dash mod using [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) as a package manager
 
-this mod will show you how to interract with levelapi 
+this mod will show you how to interract with the levelapi. levelapi is almost complete. last things i need to make is optimize level searching and open-source it
 
-this also uses [mat-dash](https://github.com/matcool/mat-dash) to make hooking syntax simpler (and mod_main (very nice))
+this mod also uses [mat-dash](https://github.com/matcool/mat-dash) to make hooking syntax simpler (and mod_main (very nice))
 
 ## setup
 
