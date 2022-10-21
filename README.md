@@ -1,6 +1,8 @@
-# gd-mod-cpm
+# Level API usage example
 
-geometry dash mod template using [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) as a package manager
+geometry dash mod using [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) as a package manager
+
+this mod will show you how to interract with levelapi 
 
 this also uses [mat-dash](https://github.com/matcool/mat-dash) to make hooking syntax simpler (and mod_main (very nice))
 
